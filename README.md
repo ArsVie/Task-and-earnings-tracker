@@ -1,4 +1,4 @@
-# Task & Pay Tracker (Universal)
+# Task & Pay Tracker
 
 A lightweight, floating userscript designed for raters to monitor tasks, time, and earnings in real-time. This tool simplifies workflow management with automated timers and currency conversion.
 
