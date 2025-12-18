@@ -14,8 +14,9 @@ A lightweight, floating userscript designed for raters to monitor tasks, time, a
 ## Installation & Usage
 
 1.  **Userscript Manager:** I have tested this script with the **Violentmonkey** extension on Firefox, but it should be compatible with any major manager like Tampermonkey or Greasemonkey.
-2.  **Activation:** The tracker icon appears in the **bottom right** corner when you are on the rating page.
-3.  **Note:** The script usually requires a **page refresh** after installation or when first loading the rating interface to appear.
+2.  **Installation** Copy the script, paste it as a new script on your userscript manager, save and close.
+3.  **Activation:** The tracker icon appears in the **bottom right** corner when you are on the rating page.
+4.  **Note:** The script usually requires a **page refresh** after installation or when first loading the rating interface to appear.
 
 ## Support
 
